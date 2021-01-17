@@ -1,0 +1,39 @@
+/* Hide the header that displays the name of the page or post */
+.entry-header {
+  display: none;
+}
+
+/* Returns smallcaps font back to normal */
+h1, h2 {
+font-variant-caps: normal;
+}
+
+/* Center an image */
+#imageid {
+  display: block;  
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Center Text */
+#divid {
+  text-align: center;
+}
+
+/* Tablet Viewport Styling */
+@media screen and (max-width: 64em) { /* 900px theme */
+
+}
+
+/* Mobile Viewport Styling */
+@media screen and (max-width: 37.5em) { /*Mobile*/
+
+/* Changes wrapper to go all the way to the edges of the mobile screen */
+.entry-content {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+ }
+
+}
