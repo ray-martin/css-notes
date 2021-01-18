@@ -21,6 +21,29 @@ font-variant-caps: normal;
   text-align: center;
 }
 
+/* Background Image */
+#divid {
+  background-image: url("imageurl.jpg");
+  background-repeat: no-repeat;
+  height: 1200px;
+  background-position: center top;
+  background-size: cover;
+}
+
+/* Center a section on the page */
+#divid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Share Section of Eucharistic Witnesses on kcascension.org */
+#share {
+  text-align: center;
+  padding: 1em 0 0 0;
+}
+
 /* Tablet Viewport Styling */
 @media screen and (max-width: 64em) { /* 900px theme */
 
