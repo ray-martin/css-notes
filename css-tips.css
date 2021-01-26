@@ -38,6 +38,11 @@ font-variant-caps: normal;
   transform: translate(-50%, -50%);
 }
 
+/* Indent Paragraphs */
+#divid {
+ text-indent: 2em; 
+}
+
 /* Share Section of Eucharistic Witnesses on kcascension.org */
 #share {
   text-align: center;
