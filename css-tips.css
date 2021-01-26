@@ -1,3 +1,6 @@
+/*External Style Sheet- Paste into custom HTML block
+<link rel="stylesheet" href="mystyle.css">*/
+
 /* Hide the header that displays the name of the page or post */
 .entry-header {
   display: none;
