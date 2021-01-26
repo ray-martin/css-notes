@@ -43,6 +43,12 @@ font-variant-caps: normal;
  text-indent: 2em; 
 }
 
+/* Border Shorthand  Works on HR tag as well! */
+# divid {
+  border: .5em solid #fff;
+  border-radius: 5px; /* rounds off corners */
+}
+
 /* Share Section of Eucharistic Witnesses on kcascension.org */
 #share {
   text-align: center;
