@@ -55,6 +55,8 @@ font-variant-caps: normal;
   padding: 1em 0 0 0;
 }
 
+/* CSS Grid https://www.w3schools.com/css/css_grid.asp */
+
 /* Tablet Viewport Styling */
 @media screen and (max-width: 64em) { /* 900px theme */
 
