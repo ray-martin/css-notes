@@ -1,5 +1,6 @@
 /*External Style Sheet- Paste into custom HTML block
-<link rel="stylesheet" href="mystyle.css">*/
+<link rel="stylesheet" href="mystyle.css">
+<style src="myjavascript.js"></style> for an external js file*/
 
 /* Hide the header that displays the name of the page or post */
 .entry-header {
